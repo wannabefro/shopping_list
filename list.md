@@ -5,6 +5,6 @@
 - [ ] Apples
 - [ ] Broccoli
 - [ ] Biskits
-- [ ] Lettuce
+- [X] Lettuce
 - [ ] Chicken
 - [ ] Milk
