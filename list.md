@@ -7,4 +7,4 @@
 - [ ] Biskits
 - [X] Lettuce
 - [ ] Chicken
-- [ ] Milk
+- [X] Milk
