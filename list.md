@@ -2,7 +2,6 @@
 
 ## Groceries
 
-- [ ] Apples
 - [ ] Broccoli
 - [ ] Biskits
 - [X] Lettuce
