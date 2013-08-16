@@ -3,3 +3,5 @@
 * chicken
 * ziti
 * red sauce
+* bagel
+* coffee
