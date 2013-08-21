@@ -2,6 +2,8 @@
 * gatorade
 * chicken
 * ziti
+* bananas
 * red sauce
 * bagel
 * coffee
+* bread
