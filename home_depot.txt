@@ -1,1 +1,6 @@
 * doorbell
+* dishwasher
+* refrigerator
+* range
+* cabinets (12)
+* custom order granite
