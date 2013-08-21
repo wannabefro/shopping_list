@@ -2,3 +2,4 @@
 * drapes
 * blinds
 * dishes
+* area rugs

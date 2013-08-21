@@ -4,3 +4,5 @@
 * range
 * cabinets (12)
 * custom order granite
+* trim
+* crown molding
