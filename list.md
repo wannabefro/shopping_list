@@ -14,6 +14,9 @@
 - [ ] Flettuce
 - [ ] McChicken
 - [ ] Silk
+- [ ] Cholula
+- [ ] Pancake mix
+
 
 
 
