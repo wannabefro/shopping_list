@@ -3,7 +3,9 @@
 ## Groceries
 
 
-- [ ] Apples
+
+Only buy beer
+- [ ] Applesandbannanas
 - [ ] Broccoli
 - [ ] Biskits
 - [ ] Lettuce
