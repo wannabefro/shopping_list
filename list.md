@@ -14,6 +14,8 @@
 - [ ] Flettuce
 - [ ] McChicken
 - [ ] Silk
+- [ ] Tofu burger
+- [ ] Lobsta!
 
 
 
