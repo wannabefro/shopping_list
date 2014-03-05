@@ -2,6 +2,7 @@
 
 ## Groceries
 
+
 - [ ] Apples
 - [ ] Broccoli
 - [ ] Biskits
@@ -10,10 +11,16 @@
 - [ ] Milk
 - [ ] Crapples
 - [ ] Moccoli
-- [ ] Bisquick 
+- [ ] Bisquick
 - [ ] Flettuce
 - [ ] McChicken
 - [ ] Silk
-
-
-
+- [ ] Cadbury Egg Minis
+- [ ] Ground Buffalo
+- [ ] Ground Flamingo
+- [ ] Ground Beef
+- [ ] Emily
+- [ ] Emily
+- [ ] Albert
+- [ ] Dave
+- [ ] Emily
