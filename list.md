@@ -10,10 +10,14 @@ Only buy beer
 - [ ] Milk
 - [ ] Crapples
 - [ ] Moccoli
-- [ ] Bisquick 
+- [ ] Bisquick
 - [ ] Flettuce
 - [ ] McChicken
 - [ ] Silk
-
+- cake
+- rice
+- ricecakes
+- beer
+- spaghetti
 
 
