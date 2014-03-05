@@ -1,7 +1,6 @@
 # List
 
 ## Groceries
-
 - [ ] Apples
 - [ ] Broccoli be green
 - [ ] Oranges
@@ -17,6 +16,10 @@
 
 - [ ] limes
 - [ ] mint
+Only buy beer
+- [ ] Applesandbannanas
+- [ ] Broccoli
+- [ ] Biskits
 - [ ] Lettuce
 - [ ] oatmeal
 - [ ] salsa
@@ -24,5 +27,12 @@
 - [ ] Chicken
 - [ ] Milk - 
 - [ ] Dominos
-
 - [ ] mac and cheese
+- [ ] Milk
+- [ ] Crapples
+- [ ] Moccoli
+- [ ] Bisquick 
+- [ ] Flettuce
+- [ ] McChicken
+- [ ] Silk
+
