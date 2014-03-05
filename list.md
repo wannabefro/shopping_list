@@ -14,6 +14,9 @@ Only buy beer
 - [ ] Flettuce
 - [ ] McChicken
 - [ ] Silk
+- [ ] Cholula
+- [ ] Pancake mix
+
 
 
 
