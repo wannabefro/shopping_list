@@ -3,8 +3,22 @@
 ## Groceries
 
 - [ ] Apples
-- [ ] Broccoli
+- [ ] Broccoli be green
+- [ ] Oranges
+- [ ] Steak
+- [ ] Cheese
+- [ ] Eggs
+- [ ] More eggs
+- [ ] Alieve
+- [ ] Sudephed
+
+
+# many other things
+
 - [ ] Biskits
 - [ ] Lettuce
 - [ ] Chicken
-- [ ] Milk
+- [ ] Milk - 
+- [ ] Dominos
+
+- [ ] mac and cheese
