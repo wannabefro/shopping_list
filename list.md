@@ -14,6 +14,8 @@ Only buy beer
 - [ ] Flettuce
 - [ ] McChicken
 - [ ] Silk
+- [ ] Tofu burger
+- [ ] Lobsta!
 
 
 
