@@ -1,19 +1,19 @@
 # List
 
-## Groceries
+Stuff
 
-- [ ] Apples
-- [ ] Broccoli
-- [ ] Biskits
-- [ ] Lettuce
-- [ ] Chicken
-- [ ] Milk
-- [ ] Crapples
-- [ ] Moccoli
-- [ ] Bisquick 
-- [ ] Flettuce
-- [ ] McChicken
-- [ ] Silk
+tequila
+limes
+tortillas 
+tacos
+pinata
+sombreros
+margarita mix
+
+reserve bull for day
+buy red flags
+book mariachi band
+put stuff in pinata
 
 
 
