@@ -7,3 +7,5 @@
 * bagel
 * coffee
 * bread
+* cream cheese
+* buffalo wings
