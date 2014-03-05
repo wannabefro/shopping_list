@@ -15,8 +15,12 @@
 
 # many other things
 
-- [ ] Biskits
+- [ ] limes
+- [ ] mint
 - [ ] Lettuce
+- [ ] oatmeal
+- [ ] salsa
+- [ ] lemmons
 - [ ] Chicken
 - [ ] Milk - 
 - [ ] Dominos
