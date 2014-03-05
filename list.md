@@ -2,6 +2,8 @@
 
 ## Groceries
 
+Only buy beer
+
 - [ ] Apples
 - [ ] Broccoli
 - [ ] Biskits
